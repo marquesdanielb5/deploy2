@@ -1,0 +1,1 @@
+https://github.com/zonak/grunt-ftp-deploy marquesdanielb5 yuanceng52008@yeah.net marquesdanielb5/deploy2
